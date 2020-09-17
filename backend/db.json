@@ -1,0 +1,19 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Caneta BIC preta",
+            "preco": 5.80
+        },
+        {
+            "id": 2,
+            "nome": "Notebook Mac Pro",
+            "preco": 15000.89
+        },
+        {
+            "id": 3,
+            "nome": "Samsung S20+",
+            "preco": 5000.75
+        }
+    ]
+}

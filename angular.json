@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-cadastro"
+    }
+  },
+  "defaultProject": "app-cadastro",
+  "cli": {
+    "analytics": "21c4fa06-9217-4fce-9112-22f04cf83047"
+  }
 }
