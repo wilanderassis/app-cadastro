@@ -7,12 +7,13 @@
     display: flex;
     align-items: center;
     text-decoration: none;
+    color: #000000;
 }
 
-.header .title-group{
+.header .title-group {
     padding-left: 25px;
 }
 
-.header .title-group i{
+.header .title-group i {
     padding-right: 5px;
 }
